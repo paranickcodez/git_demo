@@ -1,0 +1,6 @@
+git clone -- given a url it makes a local copy of a repo
+git branch -- allows us to keep code seperated based on what we
+are trying to develop
+git branch -a -- shows us the existing branches on our repository
+git remote -v -- shows us the url/repository that our current
+repo is aware of
