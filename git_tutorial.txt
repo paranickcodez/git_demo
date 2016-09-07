@@ -1,4 +1,2 @@
 Test writing a file.
-I am making a merge conflict :O
-
-
+I am making a merge conflict
