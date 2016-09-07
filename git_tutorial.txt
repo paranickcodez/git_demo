@@ -1,1 +1,2 @@
-Test writing a file.
+Test writing a mergee.
+conflict generate go.
